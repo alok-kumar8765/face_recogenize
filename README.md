@@ -1,5 +1,4 @@
 
-```markdown
 # 🔥 Face Recognition Pipeline
 
 ![GitHub stars](https://img.shields.io/github/stars/alok-kumar8765/face_recogenize?style=social)
@@ -74,11 +73,9 @@ The repo is designed to be **modular, beginner-friendly, and easily extensible**
 
 **Example flow:**
 
-```
+
 
 Browser → Form → Base64 → Server → Compare → JS alert
-
-````
 
 </details>
 
@@ -223,7 +220,6 @@ This repo is designed to help developers and beginners:
 "Hit Star ⭐, contribute code, and make face recognition accessible for everyone!"
 ```
 
-```
 
 ---
 
