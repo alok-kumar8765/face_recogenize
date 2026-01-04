@@ -83,3 +83,6 @@ ValueError: FieldStorage instance has no file
 | Flask / FastAPI      | ✅      | Convert CGI to POST endpoint for modern usage |
 
 ---
+
+# Setup Django For Web Server 
+![SETUP-WEB-SERVER.md](https://github.com/alok-kumar8765/face_recogenize/blob/main/SETUP-WEB-SERVER.md)
