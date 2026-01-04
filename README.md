@@ -71,6 +71,9 @@ The repo is designed to be **modular, beginner-friendly, and easily extensible**
    - `email` → student ID corresponding to stored image  
 3. Place reference images in `students/` folder named as `{email}.jpg`.  
 
+Note : Check Error.md file if you are facing issue.
+![Error File](https://github.com/alok-kumar8765/face_recogenize/blob/main/ERROR.md)
+
 **Example flow:**
 
 
@@ -223,16 +226,10 @@ This repo is designed to help developers and beginners:
 
 ---
 
-### ✅ Features included in this README:
+### Snippet Image (Reference)  
 
-- Table of contents with collapsible sections  
-- Badges: stars, forks, contributors, last commit, language  
-- Clear description, features, and usage for all 3 codes  
-- Installation, requirements  
-- Known issues and fixes  
-- Contribution encouragement  
-- Tags for discoverability  
-- Motivation for stars/contributions  
+![Stored Image Vs Current Image](1.jpeg)
 
----
+![Snippet Image](2.jpeg)
 
+![Snippet Image](3.jpeg)
